@@ -3,7 +3,7 @@
     "apps": [],
     "details": [
       {
-        "appID": "TEAMID.com.your.bundleid",
+        "appID": "RC8BHA434K.com.nikita.watertracker",
         "paths": [
           "/mobile",
           "/mobile/*"
